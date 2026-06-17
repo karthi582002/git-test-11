@@ -22,10 +22,6 @@ git clone https://github.com/<your-github-username>/<repository-name>.git
 
 Navigate into the project directory:
 
-```bash
-cd <repository-name>
-```
-
 ---
 
 ## Step 3: Create Your Branch
@@ -34,15 +30,9 @@ Create a branch using your name.
 
 Example:
 
-```bash
-git checkout -b karthikeyan
-```
+
 
 Verify the branch:
-
-```bash
-git branch
-```
 
 ---
 
@@ -76,36 +66,17 @@ public class LargestOfThreeNumbers {
 
 Check status:
 
-```bash
-git status
-```
 
 Add files:
 
-```bash
-git add .
-```
 
 Commit changes:
-
-```bash
-git commit -m "Added program to find largest of three numbers"
-```
 
 ---
 
 ## Step 6: Push Your Branch
 
-```bash
-git push origin <your-branch-name>
-```
-
 Example:
-
-```bash
-git push origin karthikeyan
-```
-
 ---
 
 ## Step 7: Create a Pull Request
